@@ -1,4 +1,4 @@
-package edith.example.eva1_6_frag_orien;
+package edith.example.eva1_8_clima;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("edith.example.eva1_6_frag_orien", appContext.getPackageName());
+        assertEquals("edith.example.eva1_8_clima", appContext.getPackageName());
     }
 }
